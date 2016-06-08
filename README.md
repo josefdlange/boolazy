@@ -35,3 +35,7 @@ Just:
 
 
 Go forth and be lazy, you lazy asshole.
+
+## More Truth?!
+
+Do you have more boolean syntax from another language you'd like to port over? Open a pull request!
