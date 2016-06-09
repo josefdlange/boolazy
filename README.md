@@ -4,26 +4,26 @@ Let's say you work in fifteen different languages daily.
 
 Python:
 
-	lazy = True
+	lazy  = True
  	happy = False
 
 Javascript:
 
-	var lazy = true;
+	var lazy  = true;
 	var happy = false;
 
 C:
 
-	boolean lazy = true;
+	boolean lazy  = true;
 	boolean happy = false;
 
 Objective-C:
 
-	BOOL lazy = YES;
+	BOOL lazy  = YES;
 	BOOL happy = NO;
 
 PHP:
-	lazy = TRUE;
+	lazy  = TRUE;
 	happy = FALSE;
 
 _(Etcetera)_
