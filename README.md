@@ -22,6 +22,10 @@ Objective-C:
 	BOOL lazy = YES;
 	BOOL happy = NO;
 
+PHP:
+	lazy = TRUE;
+	happy = FALSE;
+
 _(Etcetera)_
 
 Wouldn't it be nice if you could just.. forget about the different keywords and choose just one? This Python library aims to cover all possible boolean keywords from any language, inside the Python runtime.
